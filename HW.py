@@ -72,7 +72,5 @@ surface_area = 2 * (length * width + width * height + height * length)
 print("surface area of the cuboid : ", surface_area)
 
 # Question 7
-# Taking the lengths of the parallel sides and the height from the user
-
 
 # i don't know how to solve this!
